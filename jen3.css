@@ -1,0 +1,260 @@
+body {
+    width: 100%;
+    font-size: 1em;
+    background-color: white;
+}
+
+div#topnav {
+    width: 100%
+    position: fixed;
+    
+    
+    
+   
+    
+}
+
+div#topnav ul {
+    list-style-type: none;
+    
+    
+    
+   
+}
+
+div#topnav ul li  {
+   text-align: center;
+    display: inline;
+    width: 19%;
+    float: left;
+    margin-right: .5em;
+    
+   
+}
+
+div#topnav ul li a {
+    font-family: "Lato";
+    font-size: 1.3em;
+    font-weight: 900;
+    text-decoration: none;
+    color: black;
+    display: inline;
+    padding: .3em;
+    
+    
+}
+
+div#spacer {
+  width: 100%;
+  visibility: hidden;
+     
+    
+}
+
+div#spacer ul li {
+    text-align: center;
+    display: inline;
+    width: 19%;
+    float: left;
+    margin-right: .5em;
+   
+}
+
+div#spacer ul li a {
+    font-family: "Lato";
+    font-size: 1.3em;
+    font-weight: 900;
+    text-decoration: none;
+    color: black;
+    display: inline;
+    padding .3em;
+}
+
+ Div#content {
+     font-family: "Lato";
+}
+
+li.switch, li.dropdown {
+    background-color: antiquewhite
+}
+
+
+
+
+li.switch:hover, li.dropdown:hover {
+    background-color: burlywood;
+}
+
+li.switch:active li.dropdown:active {
+    background-color: darkgoldenrod;
+}
+
+
+
+li a, .dropbtn {
+    width: 96%;
+    display: inline;
+    background-color: antiquewhite
+    text-align: center;
+    padding: .3em;
+    text-decoration: none;
+    float: left;
+    margin-right: .5em;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: antiquewhite;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: .3em;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: burlywood}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+ div#foot1 {
+    width: 75%;
+    float: left;
+    text-align:center;
+    font-family: "Lato";
+    margin: auto;
+    padding-left: 3em;
+    line-height: 2em;
+  
+    
+}
+
+ div#foot2 {
+    width: 50%
+    font-family: "Lato";
+    
+}
+
+td {
+    text-align: left;
+    font-family: "Lato";
+    background-color: white;    
+    height: 1px;
+   
+    
+   
+}
+
+
+
+div#foot0 {
+    clear: both;
+    background-color: burlywood;
+    width: 97%;
+    padding-left:1.5em;
+    
+}
+
+h5 {
+    font-family: "Lato"
+}
+
+
+
+img.mid {
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+h5.down {
+    padding-right: 15em;
+    padding-top: .8em;
+    
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+div#fill {
+    background-image: url("https://photos.zillowstatic.com/p_f/IS-1ecnsxw3dey59.jpg");
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+div#fill1 {
+     background-image: url("https://photos.zillowstatic.com/p_f/IS-jq13bk9aw7rx.jpg");
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+
+
+.standout {
+    color: white;
+    font-size: 2.5em;
+}
+
+td.ching {
+    background-color: palegreen;
+    
+}
+
+
+
+    
+   
+    
+    
+    
