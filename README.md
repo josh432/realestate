@@ -1,6 +1,6 @@
 # realestate
 
-##My first website
+### My first website
 
 Here was my first attempt at web development. I designed a website for a realtor(my wife) knowing absolutely nothing about making webpages other than reading a few books on the subject. Looking back, I realize how far I've progressed in my coding abilities! I do admire my first go at this! Memories! Perhaps I'll make it more snazzy one of these days! Built using HTML, CSS, a tiny bit of Bootstrap, and Javascript.
 
