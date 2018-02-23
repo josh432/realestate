@@ -2,7 +2,7 @@
 
 ##My first website
 
-Here was my first attempt at web development. I designed a website for a realtor(my wife) knowing absolutely nothing about making webpages other than reading a few books on the subject. Looking back at this, I realize how far I've progressed in my coding abilities! I do admire this first go at this! Memories! Built using HTML, CSS, a tiny bit of Bootstrap, and Javascript.
+Here was my first attempt at web development. I designed a website for a realtor(my wife) knowing absolutely nothing about making webpages other than reading a few books on the subject. Looking back, I realize how far I've progressed in my coding abilities! I do admire my first go at this! Memories! Perhaps I'll make it more snazzy one of these days! Built using HTML, CSS, a tiny bit of Bootstrap, and Javascript.
 
 ![j1](https://user-images.githubusercontent.com/27470842/36613826-87cde4b6-188f-11e8-8323-4e812814cc63.PNG)
 ![j2](https://user-images.githubusercontent.com/27470842/36613837-8c331b84-188f-11e8-978e-12ad4f180629.PNG)
